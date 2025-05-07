@@ -1,1 +1,5 @@
- 
+ b5764b3b-9a81-4649-b4e9-4c9e2d60c82f - 2025-05-07 13:41:36 - Vicenzo Hoffmann
+d013ce87-1d9f-4608-95cf-e71cfeb054a3 - 2025-05-07 13:45:01 - Vicenzo Hoffmann - Desenvolvimento da API de Logs
+7aeb556b-b2e1-40b8-a18c-d5b34341eba5 - 2025-05-07 13:46:00 - Vicenzo Hoffmann - Desenvolvimento da API de Logs
+52fcb04d-4150-494e-b7fc-a9524e31114f - 2025-05-07 13:46:07 - Vicenzo Hoffmann - Implementa��o do sistema de logs com Express e UUID
+f7087908-94e3-4e70-922f-4018d6805d4a - 2025-05-07 13:46:13 - Vicenzo Hoffmann - Cria��o das rotas GET e POST para manipula��o de logs
